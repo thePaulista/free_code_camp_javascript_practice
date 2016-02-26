@@ -42,16 +42,16 @@ function lookUp(firstName, prop){
 
 
 // Change these values to test your function
-/*lookUp("Akira", "likes");
+lookUp("Akira", "likes");
 
-//
+/*
 "Kristian", "lastName" should return "Vos"
 "Sherlock", "likes" should return ["Intriguing Cases", "Violin"]
 "Harry","likes" should return an array
 "Bob", "number" should return "No such contact"
 "Akira", "address" should return "No such property"
 
-Profile Lookup
+**********Description: Profile Lookup
 We have an array of objects representing different people in our contacts lists.
 
 A lookUp function that takes firstName and a property (prop) as arguments has been pre-written for you.
